@@ -1,2 +1,1 @@
-# test-learning-rep
-Author Rejiba
+# test-learning-repo
